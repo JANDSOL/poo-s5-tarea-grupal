@@ -1,0 +1,17 @@
+# Images
+images/
+
+# Visual Studio
+.vscode/
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+
+# Document Word
+*.docx
